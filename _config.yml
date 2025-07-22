@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuwen Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "I'm a undergraduate student in University of Chinese Academy of Sciences, interested in NLP."
+  bio              : "I'm an undergraduate student in University of Chinese Academy of Sciences, interested in NLP."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
