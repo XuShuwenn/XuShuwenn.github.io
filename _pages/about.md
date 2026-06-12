@@ -33,13 +33,15 @@ My research interests center on large language models, vision-language models, r
 
 <span class='anchor' id='-publications'></span>
 
-# Publications
+# Publications and Preprints
+
+\* indicates equal contribution
 
 - **Shuwen Xu**, Zhitao He, and Yi R. Fung. "RedAct: Redacting Agent Capability Traces for Procedural Skill Protection." Under Review. [[arXiv](https://arxiv.org/abs/2606.10813)] [[Code](https://github.com/XuShuwenn/RedAct)]
 
 - **Shuwen Xu**, Yao Xu, Jiaxiang Liu, Chenhao Yuan, Wenshuo Peng, Jun Zhao, and Kang Liu. "GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum." Under Review. [[arXiv](https://arxiv.org/abs/2603.28533)] [[Code](https://github.com/XuShuwenn/GraphWalker)]
 
-- Jiaxiang Liu\*, Chenhao Yuan\*, Boxuan Xing\*, **Shuwen Xu**\*, Xiusheng Huang, Yinhao Xu, Hao Liu, Wenhao Teng, Xiangwen Liao, Pengfei Cao, Jun Zhao, and Kang Liu. "Quantifying Tolerance to Errors in Synthetic Data: An Atomic-level Operand vs. Operator Perturbation Study." Under Review.
+- Jiaxiang Liu\*, Chenhao Yuan\*, **Shuwen Xu**\*, Boxuan Xing\*, Xiusheng Huang, Yinhao Xu, Hao Liu, Wenhao Teng, Xiangwen Liao, Pengfei Cao, Jun Zhao, and Kang Liu. "Quantifying Tolerance to Errors in Synthetic Data: An Atomic-level Operand vs. Operator Perturbation Study." Under Review.
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -47,7 +49,7 @@ My research interests center on large language models, vision-language models, r
 
 - **Second Class Academic Scholarship** (Top 10%), University of Chinese Academy of Sciences, Oct. 2025.
 - **Second Prize**, Chinese Mathematics Competitions (CMC), Nov. 2024.
-- **Triple-A Student**, University of Chinese Academy of Sciences, 2023 - 2025.
+- **Merit Student**, University of Chinese Academy of Sciences, 2023 - 2025.
 
 <span class='anchor' id='-educations'></span>
 
@@ -84,10 +86,3 @@ My research interests center on large language models, vision-language models, r
 </div>
 
 <span class='anchor' id='-skills'></span>
-
-# Skills
-
-- **Programming Languages**: Python, C++, Bash, SPARQL, LaTeX.
-- **LLM Training & Inference**: PyTorch, Hugging Face, LLaMA-Factory, DeepSpeed, VeRL, vLLM, SGLang, Slime.
-- **Infrastructure & Developer Tools**: Linux, Git/GitHub, Docker, Virtuoso.
-- **Language Proficiency**: TOEFL 103 (R25, L27, S23, W28); CET-6 602.
