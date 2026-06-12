@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Shuwen Xu is an undergraduate student in Artificial Intelligence at UCAS, working on LLMs, MLLMs, agentic reinforcement learning, efficient model training, and embodied AI."
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Shuwen Xu (许书闻), a third-year undergraduate student majoring in Artificial Intelligence at the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html). I am also a visiting student in the Department of Computer Science and Engineering at [The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html).
+Hi, I am Shuwen Xu (许书闻), a third-year undergraduate student majoring in Artificial Intelligence at <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo">[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html). In the Spring 2026 semester, I was a visiting student in the Department of Computer Science and Engineering at <img class="inline-logo" src="/images/HUKST.png" alt="HKUST logo">[The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html).
 
 My research interests lie in LLMs/MLLMs, agentic reinforcement learning, efficient model training, and embodied AI. I am broadly interested in building capable and reliable agents that can reason, explore, and interact with complex environments, while improving the data, training, and inference pipelines that make such systems more efficient and controllable.
 
@@ -28,7 +28,8 @@ My research interests lie in LLMs/MLLMs, agentic reinforcement learning, efficie
 # 🔥 News
 
 - *2026.06*: 🎉🎉 We released [**RedAct**](https://arxiv.org/abs/2606.10813) on arXiv with [code](https://github.com/XuShuwenn/RedAct)!
-- *2026.03*: 🎉🎉 We released [**GraphWalker**](https://arxiv.org/abs/2603.28533) on arXiv with code!
+- *2026.05*: 🎉🎉 I was selected as the leader of an Undergraduate "Qiyan" Research Program, funded by the Beijing Natural Science Foundation.
+- *2026.03*: 🎉🎉 We released [**GraphWalker**](https://arxiv.org/abs/2603.28533) on arXiv with [code](https://github.com/XuShuwenn/GraphWalker)!
 - *2025.11*: 🎉🎉 I received the Second Class Academic Scholarship at UCAS.
 
 <span class='anchor' id='-publications'></span>
@@ -90,9 +91,9 @@ Under Review
 
 # 📖 Education
 
-- *2023.09 - 2027.06 (Expected)*, Bachelor of Artificial Intelligence, <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo"> [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), Beijing.
 
 - *2026.01 - 2026.05*, Visiting Student, Dept. of CSE, <img class="inline-logo" src="/images/HUKST.png" alt="HKUST logo"> [The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), Hong Kong.
+- *2023.09 - 2027.06 (Expected)*, Bachelor of Artificial Intelligence, <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo"> [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), Beijing.
 
 <span class='anchor' id='-experience'></span>
 
@@ -100,7 +101,7 @@ Under Review
 
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
-  - *2025.07 - 2026.03,* **Research Intern**
+  - *2026.03 - Present,* **Research Intern**
     - Advisor: [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html) \| [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)
     - Research on Procedural Agent Skill Protection, explore Vision-Language-Action (VLA) Models.
   </div>
@@ -111,9 +112,9 @@ Under Review
 
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
-  - *2026.03 - Present,* **Research Intern**
+  - *2025.07 - 2026.06,* **Research Intern**
     - Advisor: [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html) \| [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)
-    - Research on Knowlege Graph Question Answering via Trajectory Synthesis and Agentic RL.
+    - Research on Synthetic Data for LLM Fine-Tuning, Agentic RL, and Efficient Agent Skill Management.
   </div>
   <div class='exp-box-image'>
     <div><img src='/images/CASIA.jpg' alt="CASIA"></div>
@@ -125,12 +126,13 @@ Under Review
 
 # 🎖 Honors and Awards
 
+- **Undergraduate "Qiyan" Research Program Leader**, funded by the Beijing Natural Science Foundation, May 2026.
 - **Second Class Academic Scholarship** (Top 10%), University of Chinese Academy of Sciences, Oct. 2025.
 - **Second Prize**, Chinese Mathematics Competitions (CMC), Nov. 2024.
 - **Merit Student**, University of Chinese Academy of Sciences, 2023 - 2025.
 
 <span class='anchor' id='-beyond-academics'></span>
 
-# 🌱 Beyond Academics
+# 🌍 Beyond Academics
 
-Outside research, I enjoy staying active and exploring the world around me. You may find me playing football ⚽, practicing table tennis 🏓, or planning my next trip to somewhere new ✈️.
+Outside research, I like to keep life energetic and a little spontaneous. I enjoy playing football ⚽, practicing table tennis 🏓, swimming 🏊, and wandering through new cities with a camera, a curious appetite, and an open afternoon.

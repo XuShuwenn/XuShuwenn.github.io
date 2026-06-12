@@ -7,9 +7,12 @@
 
 # Site Settings
 title                    : "Shuwen Xu"
-description              : "Shuwen Xu's homepage"
+description              : "Shuwen Xu is an undergraduate student in Artificial Intelligence at UCAS, working on LLMs, MLLMs, agentic reinforcement learning, efficient model training, and embodied AI."
+url                      : "https://xushuwenn.github.io"
 repository               : "XuShuwenn/XuShuwenn.github.io"
 google_scholar_stats_use_cdn : true
+keywords                 : "Shuwen Xu, Xu Shuwen, artificial intelligence, LLMs, MLLMs, agentic reinforcement learning, embodied AI, UCAS, HKUST, GraphWalker, RedAct"
+og_image                 : "/images/profile.jpg"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
