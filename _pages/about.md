@@ -19,16 +19,16 @@ redirect_from:
 
 Hi, I am Shuwen Xu (许书闻), a third-year undergraduate student majoring in Artificial Intelligence at the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html). I am also a visiting student in the Department of Computer Science and Engineering at [The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html).
 
-My research interests center on large language models, vision-language models, reinforcement learning, autonomous agents, efficient model training and inference, and multi-agent systems. I am especially interested in building reliable agentic systems through synthetic data, structured reasoning trajectories, and skill-aware training pipelines.
+My research interests lie in LLMs/MLLMs, agentic reinforcement learning, efficient model training, and embodied AI. I am broadly interested in building capable and reliable agents that can reason, explore, and interact with complex environments, while improving the data, training, and inference pipelines that make such systems more efficient and controllable.
+
+<p class="phd-seeking">I'm currently seeking 2027 Fall PhD positions!</p>
 
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
 
-- **Jun. 2026**: Released **RedAct** on arXiv with code.
-- **Apr. 2026**: Released **GraphWalker** on arXiv with code.
-- **Mar. 2026**: Completed research on GraphWalker, an agentic KGQA framework for scalable reasoning over knowledge graphs.
-- **Dec. 2025**: Completed research on ATOM, an atomic-level study of error tolerance in synthetic data for LLM fine-tuning.
+- **Jun. 2026**: Released **RedAct** on arXiv with code!
+- **Apr. 2026**: Released **GraphWalker** on arXiv with code!
 - **Oct. 2025**: Received the Second Class Academic Scholarship at UCAS.
 
 <span class='anchor' id='-publications'></span>
@@ -37,11 +37,54 @@ My research interests center on large language models, vision-language models, r
 
 \* indicates equal contribution
 
-- **Shuwen Xu**, Zhitao He, and Yi R. Fung. "RedAct: Redacting Agent Capability Traces for Procedural Skill Protection." Under Review. [[arXiv](https://arxiv.org/abs/2606.10813)] [[Code](https://github.com/XuShuwenn/RedAct)]
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src='images/publications/redact.png' alt="RedAct teaser" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-- **Shuwen Xu**, Yao Xu, Jiaxiang Liu, Chenhao Yuan, Wenshuo Peng, Jun Zhao, and Kang Liu. "GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum." Under Review. [[arXiv](https://arxiv.org/abs/2603.28533)] [[Code](https://github.com/XuShuwenn/GraphWalker)]
+[RedAct: Redacting Agent Capability Traces for Procedural Skill Protection](https://arxiv.org/abs/2606.10813)
 
-- Jiaxiang Liu\*, Chenhao Yuan\*, **Shuwen Xu**\*, Boxuan Xing\*, Xiusheng Huang, Yinhao Xu, Hao Liu, Wenhao Teng, Xiangwen Liao, Pengfei Cao, Jun Zhao, and Kang Liu. "Quantifying Tolerance to Errors in Synthetic Data: An Atomic-level Operand vs. Operator Perturbation Study." Under Review.
+**Shuwen Xu**, Zhitao He, and Yi R. Fung
+
+Under Review
+
+[[arXiv](https://arxiv.org/abs/2606.10813)] \| [[Code](https://github.com/XuShuwenn/RedAct)] \| [[Website](https://xushuwenn.github.io/RedAct_Website/)]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src='images/publications/graphwalker.png' alt="GraphWalker teaser" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum](https://arxiv.org/abs/2603.28533)
+
+**Shuwen Xu\***, Yao Xu\*, Jiaxiang Liu, Chenhao Yuan, Wenshuo Peng, Jun Zhao, and Kang Liu
+
+Under Review
+
+[[arXiv](https://arxiv.org/abs/2603.28533)] \| [[Code](https://github.com/XuShuwenn/GraphWalker)]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src='images/publications/atom.png' alt="ATOM teaser" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+Quantifying Tolerance to Errors in Synthetic Data: An Atomic-level Operand vs. Operator Perturbation Study
+
+Jiaxiang Liu\*, Chenhao Yuan\*, **Shuwen Xu**\*, Boxuan Xing\*, Xiusheng Huang, Yinhao Xu, Hao Liu, Wenhao Teng, Xiangwen Liao, Pengfei Cao, Jun Zhao, and Kang Liu
+
+Under Review
+
+  </div>
+</div>
 
 <span class='anchor' id='-educations'></span>
 
@@ -57,25 +100,26 @@ My research interests center on large language models, vision-language models, r
 
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
-  - *Research Intern*
+  - *2025.07 - 2026.03,* **Research Intern**
+    - Advisor: [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html) \| [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)
+    - Research on Procedural Agent Skill Protection, explore Vision-Language-Action (VLA) Models.
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='/images/HUKST.png' alt="HKUST"></div>
+  </div>
+</div>
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *2026.03 - Present,* **Research Intern**
     - Advisor: [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html) \| [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)
-    - Research on knowledge graph question answering, synthetic reasoning trajectories, and synthetic data for LLM fine-tuning.
+    - Research on Knowlege Graph Question Answering via Trajectory Synthesis and Agentic RL.
   </div>
   <div class='exp-box-image'>
     <div><img src='/images/CASIA.jpg' alt="CASIA"></div>
   </div>
 </div>
 
-<div class='exp-box'>
-  <div class='exp-box-text' markdown="1">
-  - *Research Intern*
-    - Advisor: [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html) \| [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)
-    - Research on LLM agents and procedural skill protection.
-  </div>
-  <div class='exp-box-image'>
-    <div><img src='/images/HUKST.png' alt="HKUST"></div>
-  </div>
-</div>
 
 <span class='anchor' id='-honors-and-awards'></span>
 
