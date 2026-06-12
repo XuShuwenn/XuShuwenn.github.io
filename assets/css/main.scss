@@ -107,3 +107,45 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.exp-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 5px 0 5px 0;
+
+    .exp-box-text{
+        max-width: 100%;
+        order: 2;
+    }
+
+    .exp-box-image{
+        justify-content: center;
+        display: flex;
+        width: 40%;
+        order: 1;
+        img {
+            max-width: 400px;
+            object-fit: contain;
+        }
+    }
+
+    @include breakpoint($medium) {
+        .exp-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            min-width: 85%;
+            max-width: 85%;
+            order: 1;
+        }
+        .exp-box-image{
+            justify-content: right;
+            min-width: 15%;
+            max-width: 15%;
+            order: 2;
+        }
+    }
+}

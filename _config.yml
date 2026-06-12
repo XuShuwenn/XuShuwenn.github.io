@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuwen Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate student in Artificial Intelligence at UCAS, interested in large language models and agentic reasoning."
-  location         : "Beijing, China"
+  bio              : "UG at UCAS; visiting student at HKUST CSE. Interested in LLM agents, reasoning, and efficient training."
+  location         : "Beijing / Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : 

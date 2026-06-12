@@ -8,6 +8,9 @@ fi
 
 LOCAL_BUNDLE="./.bundle/ruby/2.6.0/bin/bundle"
 if [ -x "$LOCAL_BUNDLE" ]; then
+  export GEM_HOME="$PWD/.bundle/ruby/2.6.0"
+  export GEM_PATH="$GEM_HOME"
+  export GEM_SPEC_CACHE="$PWD/.bundle/spec_cache"
   BUNDLE="$LOCAL_BUNDLE"
 else
   BUNDLE="bundle"

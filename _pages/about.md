@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS), pursuing a Bachelor of Engineering in Artificial Intelligence. My research interests center on large language models, vision-language models, reinforcement learning, autonomous agents, efficient model training and inference, and multi-agent systems.
+Hi, I am Shuwen Xu (许书闻), a third-year undergraduate student majoring in Artificial Intelligence at the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html). I am also a visiting student in the Department of Computer Science and Engineering at [The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html).
 
-I am enthusiastic about research problems that improve the reasoning, exploration, and reliability of intelligent systems. I am especially interested in how synthetic data, structured reasoning trajectories, and agentic training pipelines can help language models solve complex tasks more robustly.
+My research interests center on large language models, vision-language models, reinforcement learning, autonomous agents, efficient model training and inference, and multi-agent systems. I am especially interested in building reliable agentic systems through synthetic data, structured reasoning trajectories, and skill-aware training pipelines.
 
 <span class='anchor' id='-news'></span>
 
@@ -35,31 +35,11 @@ I am enthusiastic about research problems that improve the reasoning, exploratio
 
 # Publications
 
-- **Shuwen Xu**, Zhitao He, and Yi R. Fung. "RedAct: Redacting Agent Capability Traces for Procedural Skill Protection." arXiv:2606.10813, 2026. [[arXiv](https://arxiv.org/abs/2606.10813)] [[Code](https://github.com/XuShuwenn/RedAct)]
+- **Shuwen Xu**, Zhitao He, and Yi R. Fung. "RedAct: Redacting Agent Capability Traces for Procedural Skill Protection." Under Review. [[arXiv](https://arxiv.org/abs/2606.10813)] [[Code](https://github.com/XuShuwenn/RedAct)]
 
-- **Shuwen Xu**, Yao Xu, Jiaxiang Liu, Chenhao Yuan, Wenshuo Peng, Jun Zhao, and Kang Liu. "GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum." arXiv:2603.28533, 2026. [[arXiv](https://arxiv.org/abs/2603.28533)] [[Code](https://github.com/XuShuwenn/GraphWalker)]
+- **Shuwen Xu**, Yao Xu, Jiaxiang Liu, Chenhao Yuan, Wenshuo Peng, Jun Zhao, and Kang Liu. "GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum." Under Review. [[arXiv](https://arxiv.org/abs/2603.28533)] [[Code](https://github.com/XuShuwenn/GraphWalker)]
 
-- Jiaxiang Liu\*, Chenhao Yuan\*, Boxuan Xing\*, **Shuwen Xu**\*, Xiusheng Huang, Yinhao Xu, Hao Liu, Wenhao Teng, Xiangwen Liao, Pengfei Cao, Jun Zhao, and Kang Liu. "Quantifying Tolerance to Errors in Synthetic Data: An Atomic-level Operand vs. Operator Perturbation Study." *Association for Computational Linguistics (ACL)*, 2026. In submission.
-
-<span class='anchor' id='-research-experience'></span>
-
-# Research Experience
-
-## Knowledge Graph Search Agent
-*Institute of Automation, Chinese Academy of Sciences (CASIA), instructed by Kang Liu*  
-Oct. 2025 - Mar. 2026
-
-- Proposed **GraphWalker**, a capability-decoupled agentic KGQA framework.
-- Developed Constrained Random Walk (CRW) to synthesize GraphTrails-E, a corpus of 30k structurally diverse trajectories for exploration-oriented supervised fine-tuning.
-- Established a data-efficient **2-stage SFT + RL** training paradigm with E-SFT, X-SFT, and lightweight reinforcement learning, achieving strong performance on WebQSP and CWQ.
-
-## Synthetic Data Analysis in LLM Fine-tuning
-*Institute of Automation, Chinese Academy of Sciences (CASIA), instructed by Kang Liu*  
-Jul. 2025 - Dec. 2025
-
-- Proposed **ATOM** (Atomic Tree Operation Modeling) to quantify error tolerance in synthetic data.
-- Distinguished benign operand noise from fatal operator errors, challenging existing filtering strategies.
-- Used CKA analysis to reveal that models can learn logical structures independently of operand correctness, identifying structural diversity as a key performance driver.
+- Jiaxiang Liu\*, Chenhao Yuan\*, Boxuan Xing\*, **Shuwen Xu**\*, Xiusheng Huang, Yinhao Xu, Hao Liu, Wenhao Teng, Xiangwen Liao, Pengfei Cao, Jun Zhao, and Kang Liu. "Quantifying Tolerance to Errors in Synthetic Data: An Atomic-level Operand vs. Operator Perturbation Study." Under Review.
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -73,11 +53,56 @@ Jul. 2025 - Dec. 2025
 
 # Education
 
-## University of Chinese Academy of Sciences (UCAS)
-Bachelor of Engineering in Artificial Intelligence, Sep. 2023 - Jul. 2027  
-GPA: 3.90/4.0; Ranking: 8/84.
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *2023.09 - Present*, Bachelor of Engineering in Artificial Intelligence
+    - [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)
+    - Advisor: [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html)
+    - GPA: 3.90/4.00, Rank: 8/84
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='/images/UCAS.png' alt="UCAS" width="80%"></div>
+  </div>
+</div>
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *Visiting Student*, Department of Computer Science and Engineering
+    - [The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/)
+    - Advisor: [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html)
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='/images/HUKST.png' alt="HKUST" width="80%"></div>
+  </div>
+</div>
 
 Selected coursework: Mechanics, C Programming & Experiment, Principle of Automatic Control, Machine Learning, Mathematical Foundations of AI, Cognitive Neuroscience, Knowledge Engineering, Decision Intelligence for Complex Systems.
+
+<span class='anchor' id='-experience'></span>
+
+# Experience
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *Research Intern*
+    - Advisor: [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html) \| [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)
+    - Research on knowledge graph question answering, synthetic reasoning trajectories, and synthetic data for LLM fine-tuning.
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='/images/CASIA.jpg' alt="CASIA" width="80%"></div>
+  </div>
+</div>
+
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *Research Intern*
+    - Advisor: [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html) \| [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)
+    - Research on LLM agents and procedural skill protection.
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='/images/HUKST.png' alt="HKUST" width="80%"></div>
+  </div>
+</div>
 
 <span class='anchor' id='-skills'></span>
 
