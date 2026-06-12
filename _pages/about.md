@@ -47,9 +47,9 @@ My research interests center on large language models, vision-language models, r
 
 # 📖 Education
 
-- *2023.09 - Present*, Undergraduate, <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo"> [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), Beijing.
+- *2023.09 - 2027.06 (Expected)*, Bachelor of Artificial Intelligence, <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo"> [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), Beijing.
 
-- *Visiting Student*, <img class="inline-logo" src="/images/HUKST.png" alt="HKUST logo"> [The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), Hong Kong.
+- *2026.01 - 2026.05*, Visiting Student, Dept. of CSE, <img class="inline-logo" src="/images/HUKST.png" alt="HKUST logo"> [The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), Hong Kong.
 
 <span class='anchor' id='-experience'></span>
 

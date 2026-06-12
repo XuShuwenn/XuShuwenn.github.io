@@ -135,17 +135,17 @@ h1:before, .anchor:before {
         width: 40%;
         order: 1;
         > div {
-            width: 112px;
-            height: 88px;
+            width: 132px;
+            height: 104px;
             display: flex;
             align-items: center;
             justify-content: center;
         }
         img {
-            width: 92px;
-            height: 82px;
-            max-width: 92px;
-            max-height: 82px;
+            width: 112px;
+            height: 98px;
+            max-width: 112px;
+            max-height: 98px;
             object-fit: contain;
         }
     }
