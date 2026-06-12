@@ -53,30 +53,9 @@ My research interests center on large language models, vision-language models, r
 
 # Education
 
-<div class='exp-box'>
-  <div class='exp-box-text' markdown="1">
-  - *2023.09 - Present*, Bachelor of Engineering in Artificial Intelligence
-    - [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)
-    - Advisor: [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html)
-    - GPA: 3.90/4.00, Rank: 8/84
-  </div>
-  <div class='exp-box-image'>
-    <div><img src='/images/UCAS.png' alt="UCAS" width="80%"></div>
-  </div>
-</div>
+- *2023.09 - Present*, Undergraduate, <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo"> [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), Beijing.
 
-<div class='exp-box'>
-  <div class='exp-box-text' markdown="1">
-  - *Visiting Student*, Department of Computer Science and Engineering
-    - [The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/)
-    - Advisor: [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html)
-  </div>
-  <div class='exp-box-image'>
-    <div><img src='/images/HUKST.png' alt="HKUST" width="80%"></div>
-  </div>
-</div>
-
-Selected coursework: Mechanics, C Programming & Experiment, Principle of Automatic Control, Machine Learning, Mathematical Foundations of AI, Cognitive Neuroscience, Knowledge Engineering, Decision Intelligence for Complex Systems.
+- *Visiting Student*, <img class="inline-logo" src="/images/HUKST.png" alt="HKUST logo"> [The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), Hong Kong.
 
 <span class='anchor' id='-experience'></span>
 

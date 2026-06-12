@@ -24,10 +24,10 @@ author:
   name             : "Shuwen Xu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "UG at UCAS; visiting student at HKUST CSE. Interested in LLM agents, reasoning, and efficient training."
-  location         : "Beijing / Hong Kong"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=8XZYo4oAAAAJ"
   email            : "xushuwen23@mails.ucas.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

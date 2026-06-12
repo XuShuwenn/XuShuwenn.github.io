@@ -108,6 +108,13 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.inline-logo {
+    height: 1.15em;
+    width: auto;
+    margin-right: 0.35em;
+    vertical-align: -0.18em;
+}
+
 .exp-box {
     display: flex;
     justify-content: left;
@@ -128,7 +135,8 @@ h1:before, .anchor:before {
         width: 40%;
         order: 1;
         img {
-            max-width: 400px;
+            max-width: 120px;
+            max-height: 92px;
             object-fit: contain;
         }
     }
