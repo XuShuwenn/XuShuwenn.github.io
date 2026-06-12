@@ -23,7 +23,7 @@ My research interests center on large language models, vision-language models, r
 
 <span class='anchor' id='-news'></span>
 
-# News
+# 🔥 News
 
 - **Jun. 2026**: Released **RedAct** on arXiv with code.
 - **Apr. 2026**: Released **GraphWalker** on arXiv with code.
@@ -33,7 +33,7 @@ My research interests center on large language models, vision-language models, r
 
 <span class='anchor' id='-publications'></span>
 
-# Publications and Preprints
+# 📝 Publications and Preprints
 
 \* indicates equal contribution
 
@@ -43,17 +43,9 @@ My research interests center on large language models, vision-language models, r
 
 - Jiaxiang Liu\*, Chenhao Yuan\*, **Shuwen Xu**\*, Boxuan Xing\*, Xiusheng Huang, Yinhao Xu, Hao Liu, Wenhao Teng, Xiangwen Liao, Pengfei Cao, Jun Zhao, and Kang Liu. "Quantifying Tolerance to Errors in Synthetic Data: An Atomic-level Operand vs. Operator Perturbation Study." Under Review.
 
-<span class='anchor' id='-honors-and-awards'></span>
-
-# Honors and Awards
-
-- **Second Class Academic Scholarship** (Top 10%), University of Chinese Academy of Sciences, Oct. 2025.
-- **Second Prize**, Chinese Mathematics Competitions (CMC), Nov. 2024.
-- **Merit Student**, University of Chinese Academy of Sciences, 2023 - 2025.
-
 <span class='anchor' id='-educations'></span>
 
-# Education
+# 📖 Education
 
 - *2023.09 - Present*, Undergraduate, <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo"> [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), Beijing.
 
@@ -61,7 +53,7 @@ My research interests center on large language models, vision-language models, r
 
 <span class='anchor' id='-experience'></span>
 
-# Experience
+# 💻 Experience
 
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
@@ -70,7 +62,7 @@ My research interests center on large language models, vision-language models, r
     - Research on knowledge graph question answering, synthetic reasoning trajectories, and synthetic data for LLM fine-tuning.
   </div>
   <div class='exp-box-image'>
-    <div><img src='/images/CASIA.jpg' alt="CASIA" width="80%"></div>
+    <div><img src='/images/CASIA.jpg' alt="CASIA"></div>
   </div>
 </div>
 
@@ -81,8 +73,14 @@ My research interests center on large language models, vision-language models, r
     - Research on LLM agents and procedural skill protection.
   </div>
   <div class='exp-box-image'>
-    <div><img src='/images/HUKST.png' alt="HKUST" width="80%"></div>
+    <div><img src='/images/HUKST.png' alt="HKUST"></div>
   </div>
 </div>
 
-<span class='anchor' id='-skills'></span>
+<span class='anchor' id='-honors-and-awards'></span>
+
+# 🎖 Honors and Awards
+
+- **Second Class Academic Scholarship** (Top 10%), University of Chinese Academy of Sciences, Oct. 2025.
+- **Second Prize**, Chinese Mathematics Competitions (CMC), Nov. 2024.
+- **Merit Student**, University of Chinese Academy of Sciences, 2023 - 2025.
