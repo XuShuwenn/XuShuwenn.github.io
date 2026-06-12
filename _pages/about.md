@@ -27,9 +27,9 @@ My research interests lie in LLMs/MLLMs, agentic reinforcement learning, efficie
 
 # 🔥 News
 
-- **Jun. 2026**: Released **RedAct** on arXiv with code!
-- **Apr. 2026**: Released **GraphWalker** on arXiv with code!
-- **Oct. 2025**: Received the Second Class Academic Scholarship at UCAS.
+- *2026.06*: 🎉🎉 We released [**RedAct**](https://arxiv.org/abs/2606.10813) on arXiv with [code](https://github.com/XuShuwenn/RedAct)!
+- *2026.03*: 🎉🎉 We released [**GraphWalker**](https://arxiv.org/abs/2603.28533) on arXiv with code!
+- *2025.11*: 🎉🎉 I received the Second Class Academic Scholarship at UCAS.
 
 <span class='anchor' id='-publications'></span>
 
@@ -66,7 +66,7 @@ Under Review
 
 Under Review
 
-[[arXiv](https://arxiv.org/abs/2603.28533)] \| [[Code](https://github.com/XuShuwenn/GraphWalker)]
+[[arXiv](https://arxiv.org/abs/2603.28533)] \| [[Code](https://github.com/XuShuwenn/GraphWalker)] \| [[Model](https://huggingface.co/xushuwen23/GraphWalker-7B)] \| [[Dataset](https://huggingface.co/datasets/xushuwen23/GraphWalkerBench)]
 
   </div>
 </div>
@@ -128,3 +128,9 @@ Under Review
 - **Second Class Academic Scholarship** (Top 10%), University of Chinese Academy of Sciences, Oct. 2025.
 - **Second Prize**, Chinese Mathematics Competitions (CMC), Nov. 2024.
 - **Merit Student**, University of Chinese Academy of Sciences, 2023 - 2025.
+
+<span class='anchor' id='-beyond-academics'></span>
+
+# 🌱 Beyond Academics
+
+Outside research, I enjoy staying active and exploring the world around me. You may find me playing football ⚽, practicing table tennis 🏓, or planning my next trip to somewhere new ✈️.
