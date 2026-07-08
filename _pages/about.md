@@ -95,7 +95,7 @@ Under Review
 
 LongCrafter: Towards Diverse Long-Context Understanding via Evidence-Graph-Guided Instruction Synthesis
 
-Chenhao Yuan\*, Yinhao Xu\*, **Shuwen Xu**, Xizhi Yang, Jiaxiang Liu, Chenxi Zhou, Shaoping Huang, Haolin Ren, Pengfei Cao†, Jun Zhao, and Kang Liu†
+Chenhao Yuan\*, Yinhao Xu\*, **Shuwen Xu**, Xizhi Yang, Jiaxiang Liu, Chenxi Zhou, Shaoping Huang, Haolin Ren, Pengfei Cao, Jun Zhao, and Kang Liu
 
 Under Review
 
