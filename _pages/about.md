@@ -34,7 +34,7 @@ My research interests lie in LLMs/MLLMs, agentic reinforcement learning, efficie
 
 <span class='anchor' id='-publications'></span>
 
-# 📝 Publications and Preprints
+# 📝 Publications
 
 \* indicates equal contribution
 
@@ -81,6 +81,21 @@ Under Review
 Quantifying Tolerance to Errors in Synthetic Data: An Atomic-level Operand vs. Operator Perturbation Study
 
 Jiaxiang Liu\*, Chenhao Yuan\*, **Shuwen Xu**\*, Boxuan Xing\*, Xiusheng Huang, Yinhao Xu, Hao Liu, Wenhao Teng, Xiangwen Liao, Pengfei Cao, Jun Zhao, and Kang Liu
+
+Under Review
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src='images/publications/longcrafter.png' alt="LongCrafter teaser" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+LongCrafter: Towards Diverse Long-Context Understanding via Evidence-Graph-Guided Instruction Synthesis
+
+Chenhao Yuan\*, Yinhao Xu\*, **Shuwen Xu**, Xizhi Yang, Jiaxiang Liu, Chenxi Zhou, Shaoping Huang, Haolin Ren, Pengfei Cao†, Jun Zhao, and Kang Liu†
 
 Under Review
 
