@@ -66,7 +66,7 @@ Under Review
 
 **Shuwen Xu\***, Yao Xu\*, Jiaxiang Liu, Chenhao Yuan, Wenshuo Peng, Jun Zhao, and Kang Liu
 
-COLM 2026
+<span style="color: red;"><strong>COLM 2026</strong></span>
 
 [[arXiv](https://arxiv.org/abs/2603.28533)] \| [[Code](https://github.com/XuShuwenn/GraphWalker)] \| [[Model](https://huggingface.co/xushuwen23/GraphWalker-7B)] \| [[Dataset](https://huggingface.co/datasets/xushuwen23/GraphWalkerBench)]
 
