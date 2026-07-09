@@ -27,6 +27,7 @@ My research interests lie in LLMs/MLLMs, agentic reinforcement learning, efficie
 
 # 🔥 News
 
+- *2026.07*: 🎉🎉 [**GraphWalker**](https://arxiv.org/abs/2603.28533) was accepted to COLM 2026!
 - *2026.06*: 🎉🎉 We released [**RedAct**](https://arxiv.org/abs/2606.10813) on arXiv with [code](https://github.com/XuShuwenn/RedAct)!
 - *2026.05*: 🎉🎉 I was selected as the leader of an Undergraduate "Qiyan" Research Program, funded by the Beijing Natural Science Foundation.
 - *2026.03*: 🎉🎉 We released [**GraphWalker**](https://arxiv.org/abs/2603.28533) on arXiv with [code](https://github.com/XuShuwenn/GraphWalker)!
@@ -65,7 +66,7 @@ Under Review
 
 **Shuwen Xu\***, Yao Xu\*, Jiaxiang Liu, Chenhao Yuan, Wenshuo Peng, Jun Zhao, and Kang Liu
 
-Under Review
+COLM 2026
 
 [[arXiv](https://arxiv.org/abs/2603.28533)] \| [[Code](https://github.com/XuShuwenn/GraphWalker)] \| [[Model](https://huggingface.co/xushuwen23/GraphWalker-7B)] \| [[Dataset](https://huggingface.co/datasets/xushuwen23/GraphWalkerBench)]
 
