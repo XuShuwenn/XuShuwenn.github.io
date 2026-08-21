@@ -83,7 +83,7 @@ Quantifying Tolerance to Errors in Synthetic Data: An Atomic-level Operand vs. O
 
 Jiaxiang Liu\*, Chenhao Yuan\*, **Shuwen Xu**\*, Boxuan Xing\*, Xiusheng Huang, Yinhao Xu, Hao Liu, Wenhao Teng, Xiangwen Liao, Pengfei Cao, Jun Zhao, and Kang Liu
 
-EMNLP 2026 Findings
+<span style="color: red;"><strong>EMNLP 2026</strong></span>
 
   </div>
 </div>
