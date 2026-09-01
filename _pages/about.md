@@ -68,7 +68,7 @@ Under Review
 
 <span style="color: red;"><strong>COLM 2026</strong></span>
 
-[[arXiv](https://arxiv.org/abs/2603.28533)] \| [[Code](https://github.com/XuShuwenn/GraphWalker)] \| [[Model](https://huggingface.co/xushuwen23/GraphWalker-7B)] \| [[Dataset](https://huggingface.co/datasets/xushuwen23/GraphWalkerBench)]
+[[arXiv](https://arxiv.org/abs/2603.28533)] \| [[Code](https://github.com/XuShuwenn/GraphWalker)] \| [[Website](https://xushuwenn.github.io/GraphWalker/)] \| [[Model](https://huggingface.co/xushuwen23/GraphWalker-7B)] \| [[Dataset](https://huggingface.co/datasets/xushuwen23/GraphWalkerBench)]
 
   </div>
 </div>
