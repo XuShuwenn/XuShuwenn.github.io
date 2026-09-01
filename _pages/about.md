@@ -79,11 +79,13 @@ Under Review
   </div>
   <div class='paper-box-text' markdown="1">
 
-Quantifying Tolerance to Errors in Synthetic Data: An Atomic-level Operand vs. Operator Perturbation Study
+[Quantifying Tolerance to Errors in Synthetic Data: An Atomic-level Operand vs. Operator Perturbation Study](https://arxiv.org/abs/2608.29144)
 
 Jiaxiang Liu\*, Chenhao Yuan\*, **Shuwen Xu**\*, Boxuan Xing\*, Xiusheng Huang, Yinhao Xu, Hao Liu, Wenhao Teng, Xiangwen Liao, Pengfei Cao, Jun Zhao, and Kang Liu
 
 <span style="color: red;"><strong>EMNLP 2026</strong></span>
+
+[[arXiv](https://arxiv.org/abs/2608.29144)] \| [[Code](https://github.com/Lut-hub/ATOM)]
 
   </div>
 </div>
@@ -94,11 +96,13 @@ Jiaxiang Liu\*, Chenhao Yuan\*, **Shuwen Xu**\*, Boxuan Xing\*, Xiusheng Huang, 
   </div>
   <div class='paper-box-text' markdown="1">
 
-LongCrafter: Towards Diverse Long-Context Understanding via Evidence-Graph-Guided Instruction Synthesis
+[LongCrafter: Towards Diverse Long-Context Understanding via Evidence-Graph-Guided Instruction Synthesis](https://arxiv.org/abs/2607.06160)
 
 Chenhao Yuan\*, Yinhao Xu\*, **Shuwen Xu**, Xizhi Yang, Jiaxiang Liu, Chenxi Zhou, Shaoping Huang, Haolin Ren, Pengfei Cao, Jun Zhao, and Kang Liu
 
 Under Review
+
+[[arXiv](https://arxiv.org/abs/2607.06160)]
 
   </div>
 </div>
