@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Shuwen Xu (许书闻), a third-year undergraduate student majoring in Artificial Intelligence at <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo">[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html). In the Spring 2026 semester, I was a visiting student in the Department of Computer Science and Engineering at <img class="inline-logo" src="/images/HUKST.png" alt="HKUST logo">[The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html).
+Hi, I am Shuwen Xu (许书闻), a senior undergraduate student majoring in Artificial Intelligence at <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo">[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html). In the Spring 2026 semester, I was a visiting student in the Department of Computer Science and Engineering at <img class="inline-logo" src="/images/HUKST.png" alt="HKUST logo">[The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html).
 
 My research interests lie in LLMs/MLLMs, agentic reinforcement learning, efficient model training, and embodied AI. I am broadly interested in building capable and reliable agents that can reason, explore, and interact with complex environments, while improving the data, training, and inference pipelines that make such systems more efficient and controllable.
 
-<p class="phd-seeking">I'm currently seeking 2027 Fall PhD positions!</p>
 
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
 
+- *2026.07*: 🎉🎉 [**ATOM**](https://arxiv.org/abs/2608.29144) was accepted to EMNLP 2026!
 - *2026.07*: 🎉🎉 [**GraphWalker**](https://arxiv.org/abs/2603.28533) was accepted to COLM 2026!
 - *2026.06*: 🎉🎉 We released [**RedAct**](https://arxiv.org/abs/2606.10813) on arXiv with [code](https://github.com/XuShuwenn/RedAct)!
 - *2026.05*: 🎉🎉 I was selected as the leader of an Undergraduate "Qiyan" Research Program, funded by the Beijing Natural Science Foundation.
