@@ -26,7 +26,7 @@ My research interests lie in LLMs/MLLMs, agentic reinforcement learning, efficie
 
 # 🔥 News
 
-- *2026.07*: 🎉🎉 [**ATOM**](https://arxiv.org/abs/2608.29144) was accepted to EMNLP 2026!
+- *2026.08*: 🎉🎉 [**ATOM**](https://arxiv.org/abs/2608.29144) was accepted to EMNLP 2026!
 - *2026.07*: 🎉🎉 [**GraphWalker**](https://arxiv.org/abs/2603.28533) was accepted to COLM 2026!
 - *2026.06*: 🎉🎉 We released [**RedAct**](https://arxiv.org/abs/2606.10813) on arXiv with [code](https://github.com/XuShuwenn/RedAct)!
 - *2026.05*: 🎉🎉 I was selected as the leader of an Undergraduate "Qiyan" Research Program, funded by the Beijing Natural Science Foundation.
