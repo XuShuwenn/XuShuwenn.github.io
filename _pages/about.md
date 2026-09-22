@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Shuwen Xu (许书闻), a senior undergraduate student majoring in Artificial Intelligence at <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo">[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html). In the Spring 2026 semester, I was a visiting student in the Department of Computer Science and Engineering at <img class="inline-logo" src="/images/HUKST.png" alt="HKUST logo">[The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html).
+Hi, I am Shuwen Xu (许书闻), a final-year undergraduate student majoring in Artificial Intelligence at <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo">[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html). In the Spring 2026 semester, I was a visiting student in the Department of Computer Science and Engineering at <img class="inline-logo" src="/images/HUKST.png" alt="HKUST logo">[The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html).
 
 My research interests lie in LLMs/MLLMs, agentic reinforcement learning, efficient model training, and embodied AI. I am broadly interested in building capable and reliable agents that can reason, explore, and interact with complex environments, while improving the data, training, and inference pipelines that make such systems more efficient and controllable.
 
@@ -31,7 +31,6 @@ My research interests lie in LLMs/MLLMs, agentic reinforcement learning, efficie
 - *2026.06*: 🎉🎉 We released [**RedAct**](https://arxiv.org/abs/2606.10813) on arXiv with [code](https://github.com/XuShuwenn/RedAct)!
 - *2026.05*: 🎉🎉 I was selected as the leader of an Undergraduate "Qiyan" Research Program, funded by the Beijing Natural Science Foundation.
 - *2026.03*: 🎉🎉 We released [**GraphWalker**](https://arxiv.org/abs/2603.28533) on arXiv with [code](https://github.com/XuShuwenn/GraphWalker)!
-- *2025.11*: 🎉🎉 I received the Second Class Academic Scholarship at UCAS.
 
 <span class='anchor' id='-publications'></span>
 
@@ -146,8 +145,8 @@ Under Review
 
 # 🎖 Honors and Awards
 
+- **First Class Academic Scholarship** (Rank: 1/88), University of Chinese Academy of Sciences, Sep. 2026.
 - **Undergraduate "Qiyan" Research Program Leader**, funded by the Beijing Natural Science Foundation, May 2026.
-- **Second Class Academic Scholarship** (Top 10%), University of Chinese Academy of Sciences, Oct. 2025.
 - **Second Prize**, Chinese Mathematics Competitions (CMC), Nov. 2024.
 - **Merit Student**, University of Chinese Academy of Sciences, 2023 - 2025.
 
