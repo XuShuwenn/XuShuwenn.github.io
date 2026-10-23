@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Shuwen Xu (许书闻), a final-year undergraduate student majoring in Artificial Intelligence at <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo">[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html). In the Spring 2026 semester, I was a visiting student in the Department of Computer Science and Engineering at <img class="inline-logo" src="/images/HUKST.png" alt="HKUST logo">[The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html).
+Hi, I am Shuwen Xu (许书闻), a final-year undergraduate student majoring in Artificial Intelligence at <img class="inline-logo" src="/images/UCAS.png" alt="UCAS logo">[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by Prof. [Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html). In the Spring 2026 semester, I was a visiting student in the Department of Computer Science and Engineering at <img class="inline-logo" src="/images/HUKST.png" alt="HKUST logo">[The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with Prof. [Yi R. (May) Fung](https://mayrfung.github.io/index.html).
 
 My research interests lie in LLMs/MLLMs, agentic reinforcement learning, efficient model training, and embodied AI. I am broadly interested in building capable and reliable agents that can reason, explore, and interact with complex environments, while improving the data, training, and inference pipelines that make such systems more efficient and controllable.
 
@@ -121,7 +121,7 @@ Under Review
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
   - *2026.03 - Present,* **Research Intern**
-    - Advisor: [Prof. Yi R. (May) Fung](https://mayrfung.github.io/index.html) \| [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)
+    - Advisor: Prof. [Yi R. (May) Fung](https://mayrfung.github.io/index.html) \| [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/)
     - Research on Procedural Agent Skill Protection, explore Vision-Language-Action (VLA) Models.
   </div>
   <div class='exp-box-image'>
@@ -132,7 +132,7 @@ Under Review
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
   - *2025.07 - 2026.06,* **Research Intern**
-    - Advisor: [Prof. Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html) \| [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)
+    - Advisor: Prof. [Kang Liu](https://nlpr.ia.ac.cn/cip/~liukang/index.html) \| [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)
     - Research on Synthetic Data for LLM Fine-Tuning, Agentic RL, and Efficient Agent Skill Management.
   </div>
   <div class='exp-box-image'>
