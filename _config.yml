@@ -12,7 +12,7 @@ url                      : "https://xushuwenn.github.io"
 repository               : "XuShuwenn/XuShuwenn.github.io"
 google_scholar_stats_use_cdn : true
 keywords                 : "Shuwen Xu, Xu Shuwen, artificial intelligence, LLMs, MLLMs, agentic reinforcement learning, embodied AI, UCAS, HKUST, GraphWalker, RedAct"
-og_image                 : "/images/profile.jpg"
+og_image                 : "/images/profile.png"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shuwen Xu"
-  avatar           : "images/profile.jpg"
+  avatar           : "images/profile.png"
   bio              : "University of Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
