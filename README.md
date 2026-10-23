@@ -1,6 +1,6 @@
 # Shuwen Xu's homepage
 
-Source for [xushuwenn.github.io](https://xushuwenn.github.io/). The homepage is a static HTML and CSS page inspired by [Jon Barron's academic homepage](https://github.com/jonbarron/jonbarron.github.io). Photos, paper teasers, and the cartoon avatar used for site icons are in `images/`.
+Source for [xushuwenn.github.io](https://xushuwenn.github.io/). The homepage is a static HTML and CSS page inspired by [Jon Barron's academic homepage](https://github.com/jonbarron/jonbarron.github.io). Photos, paper teasers, and the globe logo (`images/earth.png`) are in `images/`.
 
 Edit `index.html` for content and `stylesheet.css` for layout. To preview locally, run `python3 -m http.server 8000` in this directory and open `http://localhost:8000`.
 
